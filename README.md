@@ -22,4 +22,4 @@ $ chmod +x insfollow.sh
 
 $ termux-wake-lock
 
-$ bash insfollow.sh```
+$ bash insfollow.sh`
